@@ -21,3 +21,8 @@ body {
     font-size: 14px;
     color: gray;
 }
+@media screen and (max-width:944px) {
+    .company{
+        display:none;
+    }
+}
